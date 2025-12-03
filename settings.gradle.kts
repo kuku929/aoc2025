@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = "aoc2025"
-include("app", "day01")
+include("app", "day02")

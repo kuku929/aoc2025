@@ -7,7 +7,7 @@ plugins {
 }
 
 dependencies {
-    implementation(project(":day01"))
+    implementation(project(":day02"))
 }
 
 application {
