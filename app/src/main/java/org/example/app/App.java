@@ -1,6 +1,6 @@
 package org.example.app;
 
-import org.example.day04.Solution;
+import org.example.day07.Solution;
 import java.io.*;
 
 public class App {
